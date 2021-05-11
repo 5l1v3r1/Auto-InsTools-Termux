@@ -48,6 +48,7 @@ sleep 1
 echo Trank for downloading tools.
 echo By mishakorzhik.
 echo 3
+cd
 toilet -F gay Done
 echo Run command: "bash Mask-Phish.sh"
 echo Run command: "cd haxorbd && python2 haxor.py"
