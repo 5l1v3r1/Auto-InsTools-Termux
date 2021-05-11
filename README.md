@@ -34,7 +34,7 @@
 <br>
 <p align="center">
 <img width="49.0%" src="IMG_20210511_101103.jpg"/> 
-<img width="49.0%" src="IMG_20210510_150700.jpg"/>
+<img width="49.0%" src="IMG_20210511_100710.jpg"/>
 </p>
 
 ###### By mishakorzhik: Report bug: misakorzik528@gmail.com
