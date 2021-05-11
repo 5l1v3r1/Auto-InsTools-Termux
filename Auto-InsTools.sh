@@ -49,7 +49,7 @@ echo Trank for downloading tools.
 echo By mishakorzhik.
 echo 3
 toilet -F gay Done
-echo Run command: bash Mask-Phish.sh
-echo Run command: cd haxorbd && python2 haxor.py
-echo Run command: cd SocialBox-Termux && ./SocialBox.sh
-echo Run command: python3 impulse.py --method SMS --time 20 --threads 15 --target (Номер)
+echo Run command: "bash Mask-Phish.sh"
+echo Run command: "cd haxorbd && python2 haxor.py"
+echo Run command: "cd SocialBox-Termux && ./SocialBox.sh"
+echo Run command: "python3 impulse.py --method SMS --time 20 --threads 15 --target (Номер)"
